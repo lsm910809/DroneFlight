@@ -1,13 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AloneSoft.VeryAnimation.Editor", "AloneSoft.VeryAnimation.Editor.csproj", "{19F8C2D5-09CF-BCBD-2FDF-B27677007A32}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{371667B8-BF6C-FEAA-6728-BB9C048A92A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2955D43B-F61E-25C5-FF7C-A21EF4EAA773}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AloneSoft.VeryAnimation", "AloneSoft.VeryAnimation.csproj", "{EBAAEDA8-765F-7433-7B35-740E307AE2F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{19F8C2D5-09CF-BCBD-2FDF-B27677007A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19F8C2D5-09CF-BCBD-2FDF-B27677007A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19F8C2D5-09CF-BCBD-2FDF-B27677007A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19F8C2D5-09CF-BCBD-2FDF-B27677007A32}.Release|Any CPU.Build.0 = Release|Any CPU
 		{371667B8-BF6C-FEAA-6728-BB9C048A92A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{371667B8-BF6C-FEAA-6728-BB9C048A92A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{371667B8-BF6C-FEAA-6728-BB9C048A92A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,10 +19,6 @@ Global
 		{2955D43B-F61E-25C5-FF7C-A21EF4EAA773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2955D43B-F61E-25C5-FF7C-A21EF4EAA773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2955D43B-F61E-25C5-FF7C-A21EF4EAA773}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBAAEDA8-765F-7433-7B35-740E307AE2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBAAEDA8-765F-7433-7B35-740E307AE2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBAAEDA8-765F-7433-7B35-740E307AE2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBAAEDA8-765F-7433-7B35-740E307AE2F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
